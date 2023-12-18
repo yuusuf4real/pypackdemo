@@ -1,0 +1,4 @@
+ 
+# pypackdemo module
+
+::: pypackdemo.pypackdemo
